@@ -51,3 +51,6 @@ This project applies machine learning techniques to predict whether individuals 
 **Date**: March 2022  
 **License**: MIT 
 
+⚠️ This project is intended for educational and research purposes only. It should not be used to inform real-world criminal justice decisions without rigorous ethical review, domain expertise, and validation.
+
+
