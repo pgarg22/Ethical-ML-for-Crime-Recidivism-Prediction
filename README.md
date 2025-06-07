@@ -47,8 +47,7 @@ This project applies machine learning techniques to predict whether individuals 
 
 ---
 
-**Author**: *[Your Name Here]*  
-**Date**: June 2025  
-**License**: MIT (or choose your preferred license)
+**Author**: *Pranjal Garg*, *Tala* , *Ananthu*   
+**Date**: March 2022  
+**License**: MIT 
 
-> ⚠️ This project is for educational purposes only and should not be used in real-world criminal justice decision-making without robust peer review and ethical oversight.
