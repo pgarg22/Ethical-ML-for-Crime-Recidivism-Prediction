@@ -36,7 +36,7 @@ This project applies machine learning techniques to predict whether individuals 
 
 ## 📂 File Structure
 
-- `Assignment2.ipynb`: Full Jupyter notebook with data processing, model training, evaluation, and fairness analysis.
+- `MainNotebook.ipynb`: Full Jupyter notebook with data processing, model training, evaluation, and fairness analysis.
 - `README.md`: This file.
 
 ## 💬 Key Takeaways
